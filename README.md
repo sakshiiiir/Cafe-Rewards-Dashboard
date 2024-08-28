@@ -1,8 +1,11 @@
 # Cafe-Rewards-Dashboard
+Identify key customer segments and develop a data-driven strategy for future promotional messaging & targeting.
+
 Data Source: https://maven-datasets.s3.amazonaws.com/Cafe+Rewards+Offers/Cafe+Rewards+Offers.zip
-Cafe Reward Analysis
-About this project
-Customer Segmentation Analysis
+
+## Cafe Reward Analysis
+
+Customer Segmentation Analysis:
 
 1. Total Customer Count:
   Total: 17,000 customers  
