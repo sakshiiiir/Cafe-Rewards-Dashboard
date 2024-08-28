@@ -1,4 +1,5 @@
 # Cafe-Rewards-Dashboard
+Data Source: https://maven-datasets.s3.amazonaws.com/Cafe+Rewards+Offers/Cafe+Rewards+Offers.zip
 Cafe Reward Analysis
 About this project
 Customer Segmentation Analysis
